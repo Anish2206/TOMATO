@@ -1,4 +1,4 @@
-# 🍅 Tomato
+# Tomato
 
 **Tomato** is a full-stack web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js). It features user authentication, CRUD operations, and a responsive frontend—ideal for showcasing full-stack development skills.
 
